@@ -1,0 +1,18 @@
+body{background-image:url("gatinho.jpg")}
+h1{background-image:url("80902.jpg");
+    color:#530004  ;
+text-align:center;
+font-size:45pt;
+font-style:italic;
+}
+h2{background-color:white;
+    color:#8d1ccf;
+    text-align:center;
+    font-size:xx-large;
+}
+h3{background-color:pink;
+    color:black;
+    text-align:center;
+    font-size:145%;
+    font-style:bold;
+}
